@@ -1,1 +1,1 @@
-# mobile-naigation
+# mobile-navigation
